@@ -72,7 +72,8 @@ Data Visualization
 
 📷 Dashboard Preview
 
-!(Images)[Dashboard.png/Images]
+!(Images)[Dashboard1.png/Images]
+!(Images)[Dashboard2.png/Images]
 
 📬 Connect With Me
 
