@@ -71,9 +71,10 @@ Logistics Analytics
 Data Visualization
 
 📷 Dashboard Preview
+![Images](Images/Dashboard1.png)
 
-!(Images)[Dashboard1.png/Images]
-!(Images)[Dashboard2.png/Images]
+![Images](Images/Dashboard2.png)
+
 
 📬 Connect With Me
 
